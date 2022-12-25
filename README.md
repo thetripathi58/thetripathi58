@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![main-nahi-bataunga](https://user-images.githubusercontent.com/72072325/209462172-1bc61425-6ecd-433a-85fc-8c984fd47913.jpg)
+
+
+
 <!--
 **thetripathi58/thetripathi58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
